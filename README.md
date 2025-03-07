@@ -16,7 +16,7 @@ Ensure you have Python 3.8+ installed.
 
 ### Step 1: Clone the repository
 ```sh
-git clone https://github.com/your-username/pdf-qa-bot.git
+git clone https://github.com/shenoy-dsouza/pdf-qa-bot.git
 cd pdf-qa-bot
 ```
 
